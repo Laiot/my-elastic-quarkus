@@ -1,4 +1,6 @@
-# elasticsearch-quickstart Project
+# My Elastic Quarkus
+
+Personal projects for testing on Quarkus and Elasticsearch dependencies
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
